@@ -1,5 +1,4 @@
-import React from 'react';
-import React, {Component} from 'react';
+import React, { Component } from 'react';
 import classes from './Burgeringredient.css';
 
 class BurgerIngredient extends Component {
